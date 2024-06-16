@@ -1,0 +1,5 @@
+{
+    "name": "Phase spy",
+    "description": "For mod development purposes.\nLets you see phases being loaded.\nThey get logged into the Logs section.",
+    "author": "mikeythea @ discord.gg"
+}
